@@ -1,0 +1,16 @@
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\bin\Debug\netcoreapp3.1\Transport_ly.exe
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\bin\Debug\netcoreapp3.1\Transport_ly.deps.json
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\bin\Debug\netcoreapp3.1\Transport_ly.runtimeconfig.json
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\bin\Debug\netcoreapp3.1\Transport_ly.runtimeconfig.dev.json
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\bin\Debug\netcoreapp3.1\Transport_ly.dll
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\bin\Debug\netcoreapp3.1\Transport_ly.pdb
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\obj\Debug\netcoreapp3.1\Transport_ly.csproj.AssemblyReference.cache
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\obj\Debug\netcoreapp3.1\Transport_ly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\obj\Debug\netcoreapp3.1\Transport_ly.AssemblyInfoInputs.cache
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\obj\Debug\netcoreapp3.1\Transport_ly.AssemblyInfo.cs
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\obj\Debug\netcoreapp3.1\Transport_ly.csproj.CoreCompileInputs.cache
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\obj\Debug\netcoreapp3.1\Transport_ly.dll
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\obj\Debug\netcoreapp3.1\Transport_ly.pdb
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\obj\Debug\netcoreapp3.1\Transport_ly.genruntimeconfig.cache
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bdesai.STATEWINDOWCORP\Documents\Visual Studio 2022\Projects\Transport._y\Transport._y\obj\Debug\netcoreapp3.1\Transport_ly.csproj.CopyComplete
